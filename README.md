@@ -1,7 +1,8 @@
 # Android Application Recharger-Facilement
 (JAVA) Android Application Recharger Facilement
 
-![](https://cldup.com/dTxpPi9lDf.thumb.png
+[![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Recharger-Facilement/blob/main/images/icon.png)](https://play.google.com/store/apps/details?id=com.gtari.deltatechenologie.rechargerfacilement)
+
 # Android Application: My Library   (مكتبتي – مجموعة العقل زينة‎)
 ## _The Last Markdown Editor, Ever_
 
